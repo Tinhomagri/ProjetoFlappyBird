@@ -25,7 +25,7 @@ Este é um clone simples do popular jogo Flappy Bird, desenvolvido totalmente em
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/flappybird-python.git
+    git clone https://github.com/Tinhomagri/ProjetoFlappyBird/flappybird-python.git
     ```
 
 2. **Navegue até o diretório do projeto:**
